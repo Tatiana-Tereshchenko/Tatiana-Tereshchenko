@@ -14,8 +14,10 @@
 
 ![Tatiana-Tereshchenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tatiana-Tereshchenko&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatiana-Tereshchenko)](https://github.com/Tatiana-Tereshchenko/github-readme-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tatiana-Tereshchenkobg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Tatiana-Tereshchenko/github-readme-activity-graph)
+
 </div>
+
+[![Tatiana-Tereshchenko github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tatiana-Tereshchenkot&heme=react-dark)](https://github.com/Tatiana-Tereshchenko/github-readme-activity-graph)
 
 ### My Contacts:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tetianatereshchenko/) 
