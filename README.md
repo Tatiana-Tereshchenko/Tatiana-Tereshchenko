@@ -1,5 +1,7 @@
 ![Header](https://github.com/Tatiana-Tereshchenko/Tatiana-Tereshchenko/blob/main/assets/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner.png)
-
+<br/>
+### <h1>Welcome to my GitHub page!</h1>
+<br/>
 ### Languages and Tools
 <div>
   <a href="https://skillicons.dev" target="_blank">
@@ -10,37 +12,11 @@
 </div>
 <br/>
 <br/>
-<!-- <div style="display: flex; flex-direction: row;  align-items: flex-start; justify-content: space-between;">
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tatiana-Tereshchenko&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatiana-Tereshchenko&theme=transparent)](https://github.com/Tatiana-Tereshchenko/github-readme-stats)
-</div> -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatiana-Tereshchenko&theme=dark)
-
-
-
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tatiana-Tereshchenko&theme=dark) -->
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Tatiana-Tereshchenko&theme=default)](https://git.io/streak-stats) -->
-
-<!-- [![Tatiana-Tereshchenko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tatiana-Tereshchenko&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
 
 ### My Contacts:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tetianatereshchenko/) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TereshchenkoTetiana) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teresenkot33@gmail.com)
-<!--
-**Tatiana-Tereshchenko/Tatiana-Tereshchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
