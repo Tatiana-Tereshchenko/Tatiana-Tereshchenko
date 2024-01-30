@@ -10,12 +10,15 @@
 </div>
 <br/>
 <br/>
+
 ![Tatiana-Tereshchenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tatiana-Tereshchenko&show_icons=true&theme=transparent)
 <br/>
 <br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatiana-Tereshchenko)](https://github.com/Tatiana-Tereshchenko/github-readme-stats)
 <br/>
 <br/>
+
 ### My Contacts:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tetianatereshchenko/) 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TereshchenkoTetiana) 
