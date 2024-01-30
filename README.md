@@ -9,8 +9,6 @@
   </a>
 </div>
 <br/>
-<br/>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatiana-Tereshchenko&theme=dark)
 
 ### My Contacts:
