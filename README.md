@@ -17,9 +17,15 @@
 
 </div>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatiana-Tereshchenko&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tatiana-Tereshchenko&theme=dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tatiana-Tereshchenko&theme=dark)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Tatiana-Tereshchenko&theme=default)](https://git.io/streak-stats)
 
-[![Tatiana-Tereshchenko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tatiana-Tereshchenko&theme=react-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tatiana-Tereshchenko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tatiana-Tereshchenko&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### My Contacts:
