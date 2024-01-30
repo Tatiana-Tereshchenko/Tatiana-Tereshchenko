@@ -1,9 +1,6 @@
 ### <h2>Welcome to my GitHub page!</h2>
 ![Header](https://github.com/Tatiana-Tereshchenko/Tatiana-Tereshchenko/blob/main/assets/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner.png)
-<br/>
-
-<br/>
-### Languages and Tools
+<h2> Languages and Tools </h2>
 <div>
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=html,css,js,react" style="display: inline-block; margin: 2px;" />
