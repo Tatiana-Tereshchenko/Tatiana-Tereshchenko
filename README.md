@@ -17,7 +17,8 @@
 
 </div>
 
-[![Tatiana-Tereshchenko github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tatiana-Tereshchenkotheme=react-dark)](https://github.com/Tatiana-Tereshchenko/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PetroShutak&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### My Contacts:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tetianatereshchenko/) 
