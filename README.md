@@ -17,7 +17,7 @@
 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PetroShutak&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tatiana-Tereshchenko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tatiana-Tereshchenko&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### My Contacts:
