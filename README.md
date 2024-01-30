@@ -10,14 +10,14 @@
 </div>
 <br/>
 <br/>
-<div style="display: flex; flex-direction: row;  align-items: flex-start; justify-content: space-between;">
+<!-- <div style="display: flex; flex-direction: row;  align-items: flex-start; justify-content: space-between;"> -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tatiana-Tereshchenko&theme=dark)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatiana-Tereshchenko&theme=transparent)](https://github.com/Tatiana-Tereshchenko/github-readme-stats)
 
-</div>
+<!-- </div> -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatiana-Tereshchenko&theme=dark)
 
