@@ -10,7 +10,7 @@
 </div>
 <br/>
 <br/>
-<div display="flex">
+<div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: space-between; width: 100%;">
 
 ![Tatiana-Tereshchenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tatiana-Tereshchenko&show_icons=true&theme=transparent)
 <br/>
