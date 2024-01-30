@@ -13,7 +13,7 @@
 <div style="display: flex; flex-direction: row; width: 150px; align-items: flex-start; justify-content: space-between;">
 
 ![Tatiana-Tereshchenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tatiana-Tereshchenko&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatiana-Tereshchenko)](https://github.com/Tatiana-Tereshchenko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatiana-Tereshchenko&theme=transparent)](https://github.com/Tatiana-Tereshchenko/github-readme-stats)
 
 </div>
 
@@ -23,9 +23,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tatiana-Tereshchenko&theme=dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tatiana-Tereshchenko&theme=default)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Tatiana-Tereshchenko&theme=default)](https://git.io/streak-stats) -->
 
-[![Tatiana-Tereshchenko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tatiana-Tereshchenko&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Tatiana-Tereshchenko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tatiana-Tereshchenko&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 ### My Contacts:
