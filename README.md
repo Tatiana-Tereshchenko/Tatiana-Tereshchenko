@@ -17,6 +17,8 @@
 
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tatiana-Tereshchenko&theme=default)](https://git.io/streak-stats)
+
 [![Tatiana-Tereshchenko's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tatiana-Tereshchenko&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
