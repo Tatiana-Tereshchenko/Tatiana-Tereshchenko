@@ -1,3 +1,4 @@
+![Header](https://github.com/Tatiana-Tereshchenko/Tatiana-Tereshchenko/blob/main/assets/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner.png)
 ### Hi there 👋
 
 <!--
