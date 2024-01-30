@@ -1,6 +1,7 @@
+### <h2>Welcome to my GitHub page!</h2>
 ![Header](https://github.com/Tatiana-Tereshchenko/Tatiana-Tereshchenko/blob/main/assets/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner.png)
 <br/>
-### <h1>Welcome to my GitHub page!</h1>
+
 <br/>
 ### Languages and Tools
 <div>
