@@ -21,7 +21,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatiana-Tereshchenko&theme=dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tatiana-Tereshchenko&theme=dark)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tatiana-Tereshchenko&theme=dark)
 
