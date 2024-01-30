@@ -3,9 +3,9 @@
 ### Languages and Tools
 <div>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" style="display: inline-block; margin: 5px;" />
-    <img src="https://skillicons.dev/icons?i=redux,nodejs" style="display: inline-block; margin: 5px;" />
-    <img src="https://skillicons.dev/icons?i=styledcomponents,git,github,vscode" style="display: inline-block; margin: 5px;" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" style="display: inline-block; margin: 3px;" />
+    <img src="https://skillicons.dev/icons?i=redux,nodejs" style="display: inline-block; margin: 3px;" />
+    <img src="https://skillicons.dev/icons?i=styledcomponents,git,github,vscode" style="display: inline-block; margin: 3px;" />
   </a>
 </div>
 
