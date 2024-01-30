@@ -13,10 +13,8 @@
 <div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: space-between;">
 
 ![Tatiana-Tereshchenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tatiana-Tereshchenko&show_icons=true&theme=transparent)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatiana-Tereshchenko)](https://github.com/Tatiana-Tereshchenko/github-readme-stats)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tatiana-Tereshchenkobg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Tatiana-Tereshchenko/github-readme-activity-graph)
 </div>
 
 ### My Contacts:
