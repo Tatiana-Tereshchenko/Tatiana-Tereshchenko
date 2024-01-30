@@ -1,5 +1,5 @@
 ![Header](https://github.com/Tatiana-Tereshchenko/Tatiana-Tereshchenko/blob/main/assets/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner.png)
-### Hi there 👋
+
 ### Languages and Tools
 <div>
   <a href="https://skillicons.dev" target="_blank">
@@ -19,7 +19,7 @@
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tatiana-Tereshchenko&theme=dark)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tatiana-Tereshchenko&theme=dark) -->
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Tatiana-Tereshchenko&theme=default)](https://git.io/streak-stats) -->
 
