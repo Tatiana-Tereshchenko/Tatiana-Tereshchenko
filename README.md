@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" style="display: inline-block; margin: 4px; width: 155px; height: 155px;" />
-    <img src="https://skillicons.dev/icons?i=redux,nodejs" style="display: inline-block; margin: 4px; width: 155px; height: 155px;" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" style="display: inline-block; margin: 4px; " />
+    <img src="https://skillicons.dev/icons?i=redux,nodejs" style="display: inline-block; margin: 4px;" />
     <img src="https://skillicons.dev/icons?i=styledcomponents,git,github,vscode" style="display: inline-block; margin: 4px; " />
   </a>
 </div>
