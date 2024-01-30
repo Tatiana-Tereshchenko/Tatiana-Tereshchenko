@@ -1,6 +1,9 @@
 ![Header](https://github.com/Tatiana-Tereshchenko/Tatiana-Tereshchenko/blob/main/assets/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner.png)
 ### Hi there 👋
-
+### My Contacts:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tetianatereshchenko/) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TereshchenkoTetiana) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teresenkot33@gmail.com)
 <!--
 **Tatiana-Tereshchenko/Tatiana-Tereshchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
