@@ -12,7 +12,8 @@
 <br/>
 <div style="display: flex; flex-direction: row; width: 150px; align-items: flex-start; justify-content: space-between;">
 
-![Tatiana-Tereshchenko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tatiana-Tereshchenko&show_icons=true&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tatiana-Tereshchenko&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tatiana-Tereshchenko&theme=transparent)](https://github.com/Tatiana-Tereshchenko/github-readme-stats)
 
 </div>
